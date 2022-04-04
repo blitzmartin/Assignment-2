@@ -8,3 +8,4 @@ console.log("GOTTA CATCH 'EM ALL!");
 for (let i = 0; i < pokemonArr.length; i++) {
     console.log(pokemon.getName(pokemonArr[i], 'en'));
 }
+console.log(__dirname);
