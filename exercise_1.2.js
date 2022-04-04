@@ -15,3 +15,4 @@ fs.readFile('./ids_pokemon.txt', 'utf8', function (err, data) {
     return;
 });
 
+
